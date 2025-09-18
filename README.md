@@ -23,7 +23,7 @@
 ### 📊 **GitHub Stats**  
 <div align="center">  
 
-![MorettiOS's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MorettiOS&show_icons=true&theme=radical&hide_border=true)  
+![MorettiOS's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MorettiOS&layout=compact&theme=radical&hide_border=true)  
 
