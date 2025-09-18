@@ -23,11 +23,13 @@
 ### 📊 **GitHub Stats**  
 <div align="center">  
 
-![MorettiOS's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)  
+![MorettiOS's GitHub Stats]
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MorettiOS&layout=compact&theme=radical&hide_border=true)  
+![MorettiOS's Stats](https://github-readme-stats.vercel.app/api?username=MorettiOS&theme=shades-of-purple&show_icons=true&hide_border=false&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MorettiOS&theme=radical&hide_border=true)  
+![MorettiOS's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MorettiOS&theme=shades-of-purple&hide_border=false)
+
+![MorettiOS's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MorettiOS&theme=shades-of-purple&show_icons=true&hide_border=false&layout=compact)
 
 </div>  
 
