@@ -1,7 +1,5 @@
 # 👋 Hello, I'm **MorettiOS**  
 ### 🚀 *FullStack Developer*  
-*"Turning ideas into code."*  
-
 ---
 
 ### 🛠️ **Tech Stack**  
