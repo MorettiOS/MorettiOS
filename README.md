@@ -1,4 +1,4 @@
-# Death, such a sweet fragrance!**   
+# Death, such a sweet fragrance!   
 ---
 ### 📊 **GitHub Stats**  
 <div align="center">  
